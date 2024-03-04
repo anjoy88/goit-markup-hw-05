@@ -484,8 +484,8 @@ a{
     background-color: #404bbf;
 }
 .footer-icon-btn {
-    width: 16px;
-    height: 16px;
+    width: 24px;
+    height: 24px;
     margin-left: 16px;
 }
 
@@ -565,9 +565,6 @@ a{
     line-height: 1.17;
     letter-spacing: 0.04em;
 }
-.modal-lable:last-of-type{
-    margin-bottom: 8px;
-}
 .modal-block{
     position: relative;
 }
@@ -634,9 +631,6 @@ a{
     margin-bottom: 24px;
 }
 .modal-lable-ckekbox{
-    display: flex;
-    gap: 8px;
-    align-items: center;
     color: #8e8f99;
     font-weight: 400;
     font-size: 12px;
@@ -661,13 +655,6 @@ a{
     border: none;
     background-color: #404bbf;
     fill: #f4f4fd;
-}
-.modal-chekbox-text{
-    color: #8e8f99;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
 }
 .modal-label-link {
     color: #4d5ae5;
